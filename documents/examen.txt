@@ -15,3 +15,13 @@ nano LICENSE
 git add .
 git commit -m "Creacio de ficher LICENSE"
 git push examen master
+
+EX-3
+cd ..
+he copiat el projecte a la carpeta de git
+nano .gitignore amb contingut *.sln
+git add .
+git commit -m "Creacio de gitignore i projecte de c#"
+git push examen master
+
+EX-4
