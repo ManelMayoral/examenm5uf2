@@ -1,0 +1,10 @@
+mkdir examenm5uf2
+cd ''
+git init
+nano readme i author
+git add .
+git commit -m "Creacio author i readme"
+git remote add examen https://github.com/ManelMayoral/examenm5uf2.git
+git push examen master
+mkdir documents
+nano examen.txt
