@@ -1,3 +1,4 @@
+EX-1
 mkdir examenm5uf2
 cd ''
 git init
@@ -8,3 +9,9 @@ git remote add examen https://github.com/ManelMayoral/examenm5uf2.git
 git push examen master
 mkdir documents
 nano examen.txt
+
+EX-2
+nano LICENSE
+git add .
+git commit -m "Creacio de ficher LICENSE"
+git push examen master
