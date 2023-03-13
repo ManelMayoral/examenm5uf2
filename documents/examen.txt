@@ -43,3 +43,10 @@ canvis a c#
 git add .
 git commit -m "Creacio de branca nova ampliacio i modificacions al projecte de c#"
 git push examen ampliacio
+
+EX-7
+git checkout master
+git merge ampliacio
+git add .
+git commit -m "Fusió de master i ampliacio"
+git push examen master
