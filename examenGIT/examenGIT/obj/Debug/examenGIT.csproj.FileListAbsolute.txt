@@ -1,0 +1,13 @@
+C:\Program Files\Git\examenm5uf2\examenGIT\examenGIT\bin\Debug\examenGIT.exe.config
+C:\Program Files\Git\examenm5uf2\examenGIT\examenGIT\bin\Debug\examenGIT.exe
+C:\Program Files\Git\examenm5uf2\examenGIT\examenGIT\bin\Debug\examenGIT.pdb
+C:\Program Files\Git\examenm5uf2\examenGIT\examenGIT\obj\Debug\examenGIT.csproj.AssemblyReference.cache
+C:\Program Files\Git\examenm5uf2\examenGIT\examenGIT\obj\Debug\examenGIT.csproj.SuggestedBindingRedirects.cache
+C:\Program Files\Git\examenm5uf2\examenGIT\examenGIT\obj\Debug\examenGIT.Frm_main.resources
+C:\Program Files\Git\examenm5uf2\examenGIT\examenGIT\obj\Debug\examenGIT.frm_menjar.resources
+C:\Program Files\Git\examenm5uf2\examenGIT\examenGIT\obj\Debug\examenGIT.frm_sitio.resources
+C:\Program Files\Git\examenm5uf2\examenGIT\examenGIT\obj\Debug\examenGIT.Properties.Resources.resources
+C:\Program Files\Git\examenm5uf2\examenGIT\examenGIT\obj\Debug\examenGIT.csproj.GenerateResource.cache
+C:\Program Files\Git\examenm5uf2\examenGIT\examenGIT\obj\Debug\examenGIT.csproj.CoreCompileInputs.cache
+C:\Program Files\Git\examenm5uf2\examenGIT\examenGIT\obj\Debug\examenGIT.exe
+C:\Program Files\Git\examenm5uf2\examenGIT\examenGIT\obj\Debug\examenGIT.pdb

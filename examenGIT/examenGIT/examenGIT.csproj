@@ -52,10 +52,28 @@
     <Compile Include="Frm_main.Designer.cs">
       <DependentUpon>Frm_main.cs</DependentUpon>
     </Compile>
+    <Compile Include="frm_menjar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_menjar.Designer.cs">
+      <DependentUpon>frm_menjar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_sitio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_sitio.Designer.cs">
+      <DependentUpon>frm_sitio.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Frm_main.resx">
       <DependentUpon>Frm_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_menjar.resx">
+      <DependentUpon>frm_menjar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_sitio.resx">
+      <DependentUpon>frm_sitio.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
