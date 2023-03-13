@@ -35,3 +35,11 @@ he fet la modificacio amb visual studio
 git add .
 git commit -m "Nova versio projecte de c#"
 git push examen master
+
+ex-6
+git branch ampliacio
+git checkout ampliacio
+canvis a c#
+git add .
+git commit -m "Creacio de branca nova ampliacio i modificacions al projecte de c#"
+git push examen master

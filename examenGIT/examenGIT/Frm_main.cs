@@ -14,6 +14,7 @@ namespace examenGIT
     {
         frm_menjar menjar = new frm_menjar();
         frm_sitio sitio = new frm_sitio();  
+        frm_animal animal = new frm_animal();
         public Frm_main()
         {
             InitializeComponent();
@@ -27,6 +28,11 @@ namespace examenGIT
         private void button2_Click(object sender, EventArgs e)
         {
             sitio.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            animal.Show();
         }
     }
 }
