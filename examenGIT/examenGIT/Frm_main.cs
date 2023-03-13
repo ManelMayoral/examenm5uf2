@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace examenGIT
 {
-    public partial class Form1 : Form
+    public partial class Frm_main : Form
     {
-        public Form1()
+        public Frm_main()
         {
             InitializeComponent();
         }
