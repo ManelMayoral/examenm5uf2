@@ -19,7 +19,7 @@ git push examen master
 EX-3
 cd ..
 he copiat el projecte a la carpeta de git
-nano .gitignore amb contingut *.sln
+nano .gitignore amb contingut *.sln .vs/
 git add .
 git commit -m "Creacio de gitignore i projecte de c#"
 git push examen master
@@ -30,7 +30,7 @@ git add .
 git commit -m "Modificacio de projecte de c#"
 git push examen master
 
-EX-4 
+EX-5 
 he fet la modificacio amb visual studio
 git add .
 git commit -m "Nova versio projecte de c#"
